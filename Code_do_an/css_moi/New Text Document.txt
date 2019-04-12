@@ -1,0 +1,103 @@
+.infor
+{
+	width:100%;
+	height:50px;
+	background-color:#000;
+}
+.infor p
+{
+	color:#fff;
+	font-size:13px;
+	font-family:playfair;
+	letter-spacing:3px;
+	text-align:center;
+	line-height:50px;
+}
+.infor p a
+{
+	text-decoration:none;
+	color:#fff;
+}
+.infor p a:hover
+{
+	color:#e91e63;
+}
+.OUR_MENU
+{
+	margin:50px auto;
+}
+.OUR_MENU img
+{
+	width:100%;
+	margin: 15px auto;
+}
+.content
+{
+	margin: 20px auto;
+}
+.content_left, .content_right_1, .content_right_2 ,.response,.comment
+{
+	border:10px solid #eaf7fd;
+}
+.content_left h4
+{
+	font-size:16px;
+	font-family:playfair;
+	padding-left:10px;
+}
+.content_left img
+{
+	width:100%;
+}
+.content_left p
+{
+	font-size:playfair;
+	font-size:15px;
+	padding:20px 0 20px 0;
+	line-height:25px;
+}
+.content_right_1
+{
+	margin-bottom:20px;
+}
+ul 
+{
+	list-style-image:url(../images/arrow_1.png);
+	padding-left:20px;
+	line-height:40px;
+}
+ul li
+{
+	padding-left:5px;
+	font-size:16px;
+}
+.response_img img
+{
+	width:100%;
+}
+.response_content a
+{
+	text-decoration:none;
+}
+.comment
+{
+	margin:20px 0 50px 0;
+}
+input[type="text"], input[type="email"]
+{
+	margin:10px auto;
+}
+#message
+{
+	height:200px;
+	margin-bottom:30px;
+}
+#btn_send
+{
+	border:2px solid #000;
+	width:110px;
+	height:40px;
+	background:none;
+	font-size:20px;
+	margin-bottom:20px;
+}
